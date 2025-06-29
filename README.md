@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Masheia Dzimba
 
-<!--
-**masheia/Masheia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s student in *Data Analytics and Visualization* @ Yeshiva University  
+📊 Honours Degree in *Statistics* | Certified in *Monitoring & Evaluation*  
+🧪 Passionate about transforming data into clear insights and visual stories
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- *Languages*: Python, R, SQL
+- *Analytics*: Power BI, Tableau, Excel
+- *Libraries*: Pandas, NumPy, Matplotlib, Seaborn
+- *Database*: PostgreSQL, MySQL
+
+---
+
+## 📈 Projects Coming Soon
+Stay tuned for:
+- *Student Performance Dashboard*
+- *Economic Data Analysis: Zimbabwe*
+- *Healthcare Data Visualization*
+
+---
+
+## 📫 Let's Connect
+[LinkedIn](https://linkedin.com/in/your-link) | Email: dzimbam18@gmail.com
